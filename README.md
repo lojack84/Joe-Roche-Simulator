@@ -12,7 +12,7 @@ Space =    Attack<br>
 Escape =   Exit Game<br>
 
 --------------
-Release Notes
+Release Notes & Change Log
 --------------
 
 Ver 1.1
