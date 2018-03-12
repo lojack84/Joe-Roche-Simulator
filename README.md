@@ -2,7 +2,7 @@
 A game that is nothing but a meme
 
  //////////////<br>
-// Controls //
+// Controls //<br>
 /////////////<br><br>
 
 W =        Jump<br>
