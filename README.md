@@ -5,7 +5,7 @@ A game that is nothing but a meme
 //    Controls    //
 ////////////////////
 
-W         Jump
+W         Jump<br>
 A         Left
 D         Right
 Space     Attack
