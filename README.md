@@ -1,10 +1,9 @@
 # Joe-Roche-Simulator
 A game that is nothing but a meme
 
- //////////////<br>
-// Controls //<br>
-/////////////<br><br>
-
+------------------
+ Controls
+ -----------------
 W =        Jump<br>
 A =        Left<br>
 D   =       Right<br>
@@ -14,9 +13,8 @@ Escape =   Exit Game<br>
 --------------
 Release Notes & Change Log
 --------------
+Ver 1.1<br><br>
 
-Ver 1.1
-
--Fixed FPS and Latency caused in windows 10
--Locked aspect ratio
--Added borderless window
+-Fixed FPS and Latency caused in windows 10<br>
+-Locked aspect ratio<br>
+-Added borderless window<br>
