@@ -1,12 +1,12 @@
 # Joe-Roche-Simulator
 A game that is nothing but a meme
 
-////////////////////
-//    Controls    //
-////////////////////
+////////////////////<br>
+//    Controls    //<br>
+////////////////////<br><br>
 
 W         Jump<br>
-A         Left
-D         Right
-Space     Attack
-Escape    Exit Game
+A         Left<br>
+D         Right<br>
+Space     Attack<br>
+Escape    Exit Game<br>
